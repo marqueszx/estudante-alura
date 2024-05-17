@@ -2,7 +2,7 @@
 meu nome é Leandra
 estou estudando na alura
 estou me desenvolvendo no javaScript
-utilizo esse espaço para minha organização e compqartilhamento dos projetos desenvolvidos
+utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
 
 
 VOCÊ PODE ENTRAR EM CONTATO COMIGO
